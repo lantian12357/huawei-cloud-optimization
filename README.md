@@ -189,10 +189,16 @@ HUAWEI_REGION=cn-east-3
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
+---
+
+**最后更新**: 2026-03-07
+**版本**: v1.1.0
+**主要更新**: 添加详细优化表格生成功能
+
 ## 📞 支持
 
 如有问题或建议，请：
-1. 查看 [Issues](https://github.com/yourusername/huawei-cloud-optimization/issues)
+1. 查看 [Issues](https://github.com/lantian12357/huawei-cloud-optimization/issues)
 2. 提交新的Issue
 3. 或通过邮件联系
 
