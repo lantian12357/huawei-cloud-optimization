@@ -1,0 +1,103 @@
+﻿序号,实例名称,实例ID,状态,规格,创建时间,运行天数,CPU使用率%,内存使用率%,小时成本(元),月成本(元),优化建议,小时节省(元),月节省(元),节省比例%
+1,2d2acdeb-b7cb-4137-ba52-f0b00c2d909e_node_master1eeGg,19c71ede-1c2...,ACTIVE,ac7.4xlarge.4,2026-03-05T10:45:06Z,2,40.0,40.0,2.56,1843.20,运行正常,0.00,0.00,0.0
+2,2d2acdeb-b7cb-4137-ba52-f0b00c2d909e_node_master2GjXj,757b9a10-518...,ACTIVE,ac7.4xlarge.4,2026-03-05T10:45:05Z,2,40.0,40.0,2.56,1843.20,运行正常,0.00,0.00,0.0
+3,2d2acdeb-b7cb-4137-ba52-f0b00c2d909e_node_master3QPVK,ae9f3913-3ac...,ACTIVE,ac7.4xlarge.4,2026-03-05T10:45:05Z,2,40.0,40.0,2.56,1843.20,运行正常,0.00,0.00,0.0
+4,2d2acdeb-b7cb-4137-ba52-f0b00c2d909e_node_group_1wNjL-0003,7cc8abc4-eee...,ACTIVE,am7.4xlarge.8,2026-03-05T10:45:05Z,2,40.0,40.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+5,2d2acdeb-b7cb-4137-ba52-f0b00c2d909e_node_group_1wNjL-0001,b298791d-b8c...,ACTIVE,am7.4xlarge.8,2026-03-05T10:45:05Z,2,40.0,40.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+6,2d2acdeb-b7cb-4137-ba52-f0b00c2d909e_node_group_1wNjL-0002,339e470d-995...,ACTIVE,am7.4xlarge.8,2026-03-05T10:45:05Z,2,40.0,40.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+7,ecs-apisix7-stage-0003,99be238c-2fb...,ACTIVE,c9.6xlarge.2,2026-03-05T05:53:20Z,2,40.0,40.0,4.68,3369.60,运行正常,0.00,0.00,0.0
+8,ecs-apisix7-stage-0002,2fe285a7-be9...,ACTIVE,c9.6xlarge.2,2026-03-05T05:53:20Z,2,40.0,40.0,4.68,3369.60,运行正常,0.00,0.00,0.0
+9,ecs-apisix7-stage-0001,84c30e28-3aa...,ACTIVE,c9.6xlarge.2,2026-03-05T05:53:20Z,2,40.0,40.0,4.68,3369.60,运行正常,0.00,0.00,0.0
+10,ecs-artillery-tmp-01-0002,aa46dae8-73d...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+11,ecs-artillery-tmp-01-0008,d88b4544-56c...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+12,ecs-artillery-tmp-01-0005,49fb5e20-78a...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+13,ecs-artillery-tmp-01-0006,1cb887a7-a14...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+14,ecs-artillery-tmp-01-0010,102fbe9e-210...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+15,ecs-artillery-tmp-01-0007,23077783-d66...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+16,ecs-artillery-tmp-01-0001,d872b2b8-d65...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+17,ecs-artillery-tmp-01-0003,dccdcab4-9f9...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+18,ecs-artillery-tmp-01-0004,6c9beb9f-e46...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+19,ecs-artillery-tmp-01-0009,a7d7dbd7-8b9...,ACTIVE,c7.xlarge.2,2026-03-05T04:47:00Z,2,40.0,40.0,0.52,374.40,临时实例,0.52,374.40,100.0
+20,cce-cpts-nodepool-ekhs5,4a3f3bc1-17f...,ACTIVE,ac7.2xlarge.2,2026-03-03T02:16:15Z,4,40.0,40.0,0.96,691.20,运行正常,0.00,0.00,0.0
+21,cce-cpts-nodepool-t3a6e,3580b2aa-ba1...,ACTIVE,ac7.2xlarge.2,2026-03-03T02:16:15Z,4,40.0,40.0,0.96,691.20,运行正常,0.00,0.00,0.0
+22,cce-cpts-nodepool-55d0b,1d0f14bc-b22...,ACTIVE,ac7.2xlarge.2,2026-03-03T02:16:15Z,4,40.0,40.0,0.96,691.20,运行正常,0.00,0.00,0.0
+23,cce-cpts-nodepool-zxp0p,b7d9f3e4-5ec...,ACTIVE,ac7.2xlarge.2,2026-03-03T02:16:15Z,4,40.0,40.0,0.96,691.20,运行正常,0.00,0.00,0.0
+24,cce-cpts-nodepool-n2pb2,2a73b456-17e...,ACTIVE,ac7.2xlarge.2,2026-02-24T09:23:06Z,11,50.0,50.0,0.96,691.20,运行正常,0.00,0.00,0.0
+25,cce-cpts-nodepool-0la49,4f262711-737...,ACTIVE,ac7.2xlarge.2,2026-02-24T09:23:06Z,11,50.0,50.0,0.96,691.20,运行正常,0.00,0.00,0.0
+26,cce-cpts-nodepool-1s7ul,15e319de-647...,ACTIVE,ac7.2xlarge.2,2026-02-24T09:23:06Z,11,50.0,50.0,0.96,691.20,运行正常,0.00,0.00,0.0
+27,cce-cpts-nodepool-bttan,2c9357f9-23d...,ACTIVE,ac7.2xlarge.2,2026-02-24T09:23:06Z,11,50.0,50.0,0.96,691.20,运行正常,0.00,0.00,0.0
+28,http2kafka-tmp01-0004,a3ee8d7b-6a8...,ACTIVE,ac7.2xlarge.2,2026-02-24T07:03:25Z,11,50.0,50.0,0.96,691.20,临时实例,0.96,691.20,100.0
+29,http2kafka-tmp01-0001,de39bb3a-c92...,ACTIVE,ac7.2xlarge.2,2026-02-24T07:03:21Z,11,50.0,50.0,0.96,691.20,临时实例,0.96,691.20,100.0
+30,http2kafka-tmp01-0002,4dbd1317-759...,ACTIVE,ac7.2xlarge.2,2026-02-24T07:03:21Z,11,50.0,50.0,0.96,691.20,临时实例,0.96,691.20,100.0
+31,http2kafka-tmp01-0003,be6325b4-6f4...,ACTIVE,ac7.2xlarge.2,2026-02-24T07:03:21Z,11,50.0,50.0,0.96,691.20,临时实例,0.96,691.20,100.0
+32,http2kafka-tmp,43f27336-cbc...,ACTIVE,ac7.2xlarge.2,2026-02-24T07:00:40Z,11,50.0,50.0,0.96,691.20,临时实例,0.96,691.20,100.0
+33,livelab-prod-nodepool-16c-32g-websocket-needed-o13x8,2fedb082-efb...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:27Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+34,livelab-prod-nodepool-16c-32g-websocket-needed-w9crc,64429e6a-30d...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+35,livelab-prod-nodepool-16c-32g-websocket-needed-nn9k1,8cdcc7d1-763...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+36,livelab-prod-nodepool-16c-32g-websocket-needed-d9vij,90901042-b6d...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+37,livelab-prod-nodepool-16c-32g-websocket-needed-2t6s6,671f90d3-d4c...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+38,livelab-prod-nodepool-16c-32g-websocket-needed-6jly5,86e22900-47b...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+39,livelab-prod-nodepool-16c-32g-websocket-needed-0tjtv,8677516b-117...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+40,livelab-prod-nodepool-16c-32g-websocket-needed-dfoo6,c9de86fb-fa8...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+41,livelab-prod-nodepool-16c-32g-websocket-needed-vang1,7971b724-3bf...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+42,livelab-prod-nodepool-16c-32g-websocket-needed-bfjuw,741274f6-fcb...,ACTIVE,c7.4xlarge.2,2026-02-10T12:32:26Z,25,70.0,70.0,2.08,1497.60,运行正常,0.00,0.00,0.0
+43,livelab-stage-32c-64-http2kafka-b1b4x,beb81c30-ead...,ACTIVE,ac7.8xlarge.2,2026-02-02T04:48:22Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+44,livelab-stage-32c-64-http2kafka-f7xnr,52f8628c-af9...,ACTIVE,ac7.8xlarge.2,2026-02-02T04:48:22Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+45,livelab-stage-32c-64-http2kafka-7kbz2,18c06f93-5b4...,ACTIVE,ac7.8xlarge.2,2026-02-02T04:48:22Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+46,livelab-stage-32c-64-http2kafka-kzz51,bbd24243-849...,ACTIVE,ac7.8xlarge.2,2026-02-02T04:48:22Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+47,livelab-stage-32c-64-http2kafka-aafs7,01656571-a3a...,ACTIVE,ac7.8xlarge.2,2026-02-02T04:48:22Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+48,livelab-stage-32c-64-http2kafka-oekw6,d9305d7b-b88...,ACTIVE,ac7.8xlarge.2,2026-02-02T04:48:22Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+49,livelab-stage-32c-64-http2kafka-2o07b,2a8021d1-38d...,ACTIVE,ac7.8xlarge.2,2026-02-02T04:48:22Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+50,livelab-stage-32c-64-http2kafka-a7iyk,b0763226-8c0...,ACTIVE,ac7.8xlarge.2,2026-02-02T02:48:26Z,33,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+51,livelab-prod-nodepool-ac7-stable-1t-c7j35,5e0fb6ba-fe4...,ACTIVE,ac7.32xlarge.2,2026-01-20T14:31:36Z,46,70.0,70.0,15.36,11059.20,运行正常,0.00,0.00,0.0
+52,livelab-prod-nodepool-pushagent-ws-32c-64g-bxqlx,3abca4bd-9eb...,ACTIVE,c7.8xlarge.2,2026-01-06T13:28:41Z,60,70.0,70.0,4.16,2995.20,运行正常,0.00,0.00,0.0
+53,livelab-prod-nodepool-pushagent-ws-32c-64g-6fm03,71669bf2-d47...,ACTIVE,c7.8xlarge.2,2026-01-06T13:28:40Z,60,70.0,70.0,4.16,2995.20,运行正常,0.00,0.00,0.0
+54,cce-ecp-prod-nodepool-64c256g-gu9fi,4b3ff4c5-404...,ACTIVE,ac7.16xlarge.4,2026-01-06T12:47:00Z,60,70.0,70.0,10.24,7372.80,运行正常,0.00,0.00,0.0
+55,cce-ecp-prod-nodepool-64c256g-0mwtn,ebbafb46-067...,ACTIVE,ac7.16xlarge.4,2026-01-06T12:47:00Z,60,70.0,70.0,10.24,7372.80,运行正常,0.00,0.00,0.0
+56,cce-ecp-prod-nodepool-64c256g-zqazb,c0804a22-c1e...,ACTIVE,ac7.16xlarge.4,2026-01-06T12:47:00Z,60,70.0,70.0,10.24,7372.80,运行正常,0.00,0.00,0.0
+57,cce-ecp-prod-nodepool-64c256g-hg0sy,0380e1f4-eea...,ACTIVE,ac7.16xlarge.4,2026-01-06T12:47:00Z,60,70.0,70.0,10.24,7372.80,运行正常,0.00,0.00,0.0
+58,livelab-stage-nodepool-websocket-ibe3u,c9bdb9a0-d68...,ACTIVE,ac7.4xlarge.2,2026-01-05T13:55:52Z,61,50.0,50.0,1.92,1382.40,运行正常,0.00,0.00,0.0
+59,brust_analysis,04dfc659-21b...,ACTIVE,ac7.2xlarge.2,2026-01-04T02:16:24Z,62,50.0,50.0,0.96,691.20,运行正常,0.00,0.00,0.0
+60,livelab-test-nodepool-stable-kpfp9,6f82c9b2-cce...,ACTIVE,ac7.4xlarge.2,2025-12-23T05:36:59Z,74,30.0,30.0,1.92,1382.40,测试环境长期运行,1.54,1105.92,80.0
+61,livelab-test-nodepool-stable-n8j8n,77681100-857...,ACTIVE,ac7.4xlarge.2,2025-12-23T05:36:58Z,74,30.0,30.0,1.92,1382.40,测试环境长期运行,1.54,1105.92,80.0
+62,mrs-debezium-test,6a6a8431-eda...,ACTIVE,ac9.xlarge.2,2025-12-23T05:32:44Z,74,30.0,30.0,0.72,518.40,测试环境长期运行,0.58,414.72,80.0
+63,pushagent-ws-32c-64g-9qnlj,af21249f-d7b...,ACTIVE,ac7.8xlarge.2,2025-12-23T03:40:02Z,74,50.0,50.0,3.84,2764.80,运行正常,0.00,0.00,0.0
+64,mrs-debezium-prod-1,a085dfe8-049...,ACTIVE,ac9.xlarge.4,2025-12-17T08:17:22Z,80,70.0,70.0,0.96,691.20,运行正常,0.00,0.00,0.0
+65,mrs-debezium-prod-2,9971b8b4-01a...,ACTIVE,ac9.xlarge.4,2025-12-17T08:17:21Z,80,70.0,70.0,0.96,691.20,运行正常,0.00,0.00,0.0
+66,mrs-debezium-prod-3,67c4766c-268...,ACTIVE,ac9.xlarge.4,2025-12-17T08:17:21Z,80,70.0,70.0,0.96,691.20,运行正常,0.00,0.00,0.0
+67,mrs-debezium-dev,1dc757d4-fb0...,ACTIVE,ac9.xlarge.2,2025-12-15T06:32:02Z,82,50.0,50.0,0.72,518.40,运行正常,0.00,0.00,0.0
+68,livelab-prod-nodepool-ac7-stable-1t-9lmh4,bfd65b5b-546...,ACTIVE,ac7.32xlarge.2,2025-12-11T13:55:28Z,86,70.0,70.0,15.36,11059.20,运行正常,0.00,0.00,0.0
+69,livelab-prod-nodepool-ac7-stable-1t-uw964,ddf3f8ca-5fb...,ACTIVE,ac7.32xlarge.2,2025-11-25T12:22:57Z,102,70.0,70.0,15.36,11059.20,建议包年包月,4.61,3317.76,30.0
+70,dcc6f3e6-a26c-4921-9f2c-0dc0df951724_node_group_1yIWX-0003,43ccd74e-617...,ACTIVE,ac7.4xlarge.4,2025-11-07T10:19:19Z,120,50.0,50.0,2.56,1843.20,建议包年包月,0.77,552.96,30.0
+71,dcc6f3e6-a26c-4921-9f2c-0dc0df951724_node_master2VsJN,ca9e0bbc-556...,ACTIVE,ac7.4xlarge.4,2025-11-07T10:19:14Z,120,50.0,50.0,2.56,1843.20,建议包年包月,0.77,552.96,30.0
+72,dcc6f3e6-a26c-4921-9f2c-0dc0df951724_node_group_1yIWX-0002,4d467937-d8a...,ACTIVE,ac7.4xlarge.4,2025-11-07T10:19:13Z,120,50.0,50.0,2.56,1843.20,建议包年包月,0.77,552.96,30.0
+73,dcc6f3e6-a26c-4921-9f2c-0dc0df951724_node_master3XXYm,f33af373-e47...,ACTIVE,ac7.4xlarge.4,2025-11-07T10:19:13Z,120,50.0,50.0,2.56,1843.20,建议包年包月,0.77,552.96,30.0
+74,dcc6f3e6-a26c-4921-9f2c-0dc0df951724_node_master1TSPw,119301a8-43d...,ACTIVE,ac7.4xlarge.4,2025-11-07T10:19:13Z,120,50.0,50.0,2.56,1843.20,建议包年包月,0.77,552.96,30.0
+75,dcc6f3e6-a26c-4921-9f2c-0dc0df951724_node_group_1yIWX-0001,6f40c2aa-851...,ACTIVE,ac7.4xlarge.4,2025-11-07T10:19:13Z,120,50.0,50.0,2.56,1843.20,建议包年包月,0.77,552.96,30.0
+76,livelab-prod-grafana-pool-4c8g-60g-g6em0,c036bff0-501...,ACTIVE,ac7.xlarge.2,2025-11-06T09:32:46Z,121,70.0,70.0,0.48,345.60,建议包年包月,0.14,103.68,30.0
+77,ecs-ops-sonar,df8f8b2d-048...,ACTIVE,x2e.4u.8g,2025-10-13T02:46:47Z,145,50.0,50.0,0.32,230.40,建议包年包月,0.10,69.12,30.0
+78,ecs-codeart-ecp,a77302f9-3b1...,ACTIVE,x2e.4u.8g,2025-09-28T10:39:46Z,160,50.0,50.0,0.32,230.40,建议包年包月,0.10,69.12,30.0
+79,livelab-test-mall-nodepool-4c16g-85wps,5de19fdc-22a...,ACTIVE,ac7.xlarge.4,2025-08-18T09:34:54Z,201,36.0,36.0,0.52,374.40,测试环境长期运行,0.42,299.52,80.0
+80,livelab-test-mall-nodepool-4c16g-v3hlf,797749c2-1e9...,ACTIVE,ac7.xlarge.4,2025-08-18T09:34:54Z,201,36.0,36.0,0.52,374.40,测试环境长期运行,0.42,299.52,80.0
+81,livelab-test-mall-nodepool-4c16g-fm62a,39e0ddab-280...,ACTIVE,ac7.xlarge.4,2025-08-18T09:34:54Z,201,36.0,36.0,0.52,374.40,测试环境长期运行,0.42,299.52,80.0
+82,livelab-prod-nodepool-ac7-stable-1t-b5uvh,3318766f-6a8...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+83,livelab-prod-nodepool-ac7-stable-1t-6yvpp,85221729-9e2...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+84,livelab-prod-nodepool-ac7-stable-1t-f4tvp,5294b9dd-799...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+85,livelab-prod-nodepool-ac7-stable-1t-8xc2b,039924db-93d...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+86,livelab-prod-nodepool-ac7-stable-1t-zut4y,5053b056-266...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+87,livelab-prod-nodepool-ac7-stable-1t-2gpk3,66656ed0-5c7...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+88,livelab-prod-nodepool-ac7-stable-1t-u73zn,085b5089-d56...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+89,livelab-prod-nodepool-ac7-stable-1t-7eg0t,096ed17d-95d...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+90,livelab-prod-nodepool-ac7-stable-1t-0nakw,fe3aa3e8-879...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+91,livelab-prod-nodepool-ac7-stable-1t-zq8vp,f0a3bd8a-56f...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+92,livelab-prod-nodepool-ac7-stable-1t-bl3gz,61694ab8-c06...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+93,livelab-prod-nodepool-ac7-stable-1t-933jw,6f82b8e9-92e...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+94,livelab-prod-nodepool-ac7-stable-1t-onp4k,e3775e5a-ce5...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+95,livelab-prod-nodepool-ac7-stable-1t-cj287,27651717-a79...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+96,livelab-prod-nodepool-ac7-stable-1t-76yw4,44c99c03-27b...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+97,livelab-prod-nodepool-ac7-stable-1t-p60gu,b2ee09ce-113...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:15Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+98,livelab-prod-nodepool-ac7-stable-1t-fxkfp,72627fb7-b1b...,ACTIVE,ac7.32xlarge.2,2025-08-06T12:58:14Z,213,84.0,84.0,15.36,11059.20,使用率过高; 规格不足; 建议包年包月,3.69,2654.21,24.0
+99,livelab-test-nodepool-stable-2zx82,4c4f91e5-3c2...,ACTIVE,ac7.4xlarge.2,2025-08-06T12:22:19Z,213,36.0,36.0,1.92,1382.40,测试环境长期运行,1.54,1105.92,80.0
+100,livelab-dev-nodepool-stable-l2wqo,a57bfa4e-265...,ACTIVE,ac7.4xlarge.2,2025-06-11T03:56:02Z,269,60.0,60.0,1.92,1382.40,建议包年包月,0.58,414.72,30.0
+
+汇总统计,,,,,,,,,495.68,356889.60,总计,89.34,64244.77,18.0
